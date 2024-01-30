@@ -23,7 +23,7 @@ public class MethodInitMain2 {
         }
 
     }
-
+//=> 해딩 코드가 객체지향을 위해 MemberInit으로 이동
     static void initMember(MemberInit member, String name, int age, int grade){
         member.name = name;
         member.age = age;
