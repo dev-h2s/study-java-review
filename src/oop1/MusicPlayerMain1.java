@@ -19,7 +19,7 @@ public class MusicPlayerMain1 {
 //        볼륨 감소
         volume--;
         System.out.println("볼륨 상태:"+volume);
-isOn = true;
+            isOn = true;
 //        음악 플레이어 상태
         if(isOn) {
             System.out.println("음악 플레이 on, 볼륨:" + volume);
