@@ -9,7 +9,6 @@ public class MusicPlayerMain3 {
         volumeDown(data);
         showStatus(data);
         off(data);
-
         }
 
     static void on(MusicPlayerData data){
